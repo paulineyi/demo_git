@@ -1,2 +1,4 @@
 C'est un ficher text
+les participants sont:
 Jim
+Amanda
